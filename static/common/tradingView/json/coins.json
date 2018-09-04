@@ -1,0 +1,21 @@
+{
+	"result": [{
+		"currencyId": 1,
+		"latest": "484.1369735363715"
+	}, {
+		"currencyId": 2,
+		"latest": "6734.543932824683"
+	}, {
+		"currencyId": 3,
+		"latest": "8.807676425117801"
+	}, {
+		"currencyId": 4,
+		"latest": "39.8031279599481"
+	}, {
+		"currencyId": 5,
+		"latest": "18.54209749069343"
+	}, {
+		"currencyId": 6,
+		"latest": "763.0775840922653"
+	}]
+}

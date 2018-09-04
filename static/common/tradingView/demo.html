@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link rel="stylesheet" href="../szsewebui/libs/libs.css">
+	<link rel="stylesheet" href="../szsewebui/framework/szsewebui.css">
+</head>
+<body>
+	<div class="container">
+		<input type="text" class="select">
+		<input type="text" class="month form-control">
+		<input type="text" class="calendar form-control">
+	</div>
+	<script src="../szsewebui/libs/libs.js"></script>
+	<script src="../szsewebui/framework/szsewebui.js"></script>
+	<script>
+		var option = {
+			data:[
+				{text:'1',value:0,selected:'selected'},
+				{text:'2',value:1,selected:''},
+				{text:'3',value:2,selected:''},
+				{text:'4',value:3,selected:''},
+				{text:'5',value:4,selected:''},
+			]
+		}
+		var calendar = new s.ui.controls.Selectex('.container .select',option);
+		var month = new s.ui.controls.Monthpicker('.container .month',{});
+		var calendar1 = new s.ui.controls.Calendar('.container .calendar',{});
+	</script>
+</body>
+</html>

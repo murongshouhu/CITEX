@@ -1,0 +1,91 @@
+[{
+	"contractId": 1,
+	"timestamp": 1531040712190882,
+	"lastPrice": "0.072068",
+	"priceChangeRadio": "-0.00076259",
+	"priceChange": "-0.000055",
+	"priceHigh": "0.07231",
+	"priceLow": "0.071725",
+	"totalVolume": "1040.6526",
+	"totalTurnover": "74.9146212"
+}, {
+	"contractId": 2,
+	"timestamp": 1531040736490874,
+	"lastPrice": "0.001309",
+	"priceChangeRadio": "0.00383436",
+	"priceChange": "0.000005",
+	"priceHigh": "0.001319",
+	"priceLow": "0.001303",
+	"totalVolume": "25556.0676",
+	"totalTurnover": "33.490106"
+}, {
+	"contractId": 3,
+	"timestamp": 1531040757066535,
+	"lastPrice": "0.005879",
+	"priceChangeRadio": "0.03357947",
+	"priceChange": "0.000191",
+	"priceHigh": "0.006092",
+	"priceLow": "0.0057",
+	"totalVolume": "9400.8768",
+	"totalTurnover": "55.76923365"
+}, {
+	"contractId": 4,
+	"timestamp": 1531040544417876,
+	"lastPrice": "0.002746",
+	"priceChangeRadio": "-0.00254268",
+	"priceChange": "-0.000007",
+	"priceHigh": "0.002778",
+	"priceLow": "0.002746",
+	"totalVolume": "5968.1699",
+	"totalTurnover": "16.47440944"
+}, {
+	"contractId": 5,
+	"timestamp": 1531040571329902,
+	"lastPrice": "0.113211",
+	"priceChangeRadio": "0.02271064",
+	"priceChange": "0.002514",
+	"priceHigh": "0.114444",
+	"priceLow": "0.110696",
+	"totalVolume": "884.8818",
+	"totalTurnover": "100.6178737"
+}, {
+	"contractId": 6,
+	"timestamp": 1531040595574090,
+	"lastPrice": "0.018164",
+	"priceChangeRadio": "-0.00873172",
+	"priceChange": "-0.00016",
+	"priceHigh": "0.018336",
+	"priceLow": "0.018067",
+	"totalVolume": "1479.4271",
+	"totalTurnover": "26.96795536"
+}, {
+	"contractId": 7,
+	"timestamp": 1531040623291584,
+	"lastPrice": "0.081356",
+	"priceChangeRadio": "0.015617",
+	"priceChange": "0.001251",
+	"priceHigh": "0.084689",
+	"priceLow": "0.080059",
+	"totalVolume": "3216.5539",
+	"totalTurnover": "264.55602624"
+}, {
+	"contractId": 8,
+	"timestamp": 1531040646330068,
+	"lastPrice": "0.038131",
+	"priceChangeRadio": "-0.01483013",
+	"priceChange": "-0.000574",
+	"priceHigh": "0.038705",
+	"priceLow": "0.038101",
+	"totalVolume": "1470.6981",
+	"totalTurnover": "56.52856993"
+}, {
+	"contractId": 9,
+	"timestamp": 1531040673944891,
+	"lastPrice": "1.57263",
+	"priceChangeRadio": "0.01106454",
+	"priceChange": "0.01721",
+	"priceHigh": "1.59853",
+	"priceLow": "1.55904",
+	"totalVolume": "432.2935",
+	"totalTurnover": "683.5293778"
+}]

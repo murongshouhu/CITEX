@@ -1,0 +1,189 @@
+.chart-page .chart-container {
+    border: 0 none;
+}
+
+
+/* .left{ text-align:right;} */
+
+.left {
+    position: relative;
+}
+
+.header-group-fullscreen {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.left span,
+.left a {
+    background: rgba(0, 0, 0, 0) !important;
+    border: 0 none !important;
+}
+
+.left span:hover,
+.left span:before {
+    border: 0 none !important;
+}
+
+.left svg {
+    fill: #fff !important;
+}
+
+.left .tv-caret {
+    border-top-color: #fff;
+}
+
+.chart-controls-bar>.chart-controls-bar-buttons>.apply-common-tooltip:nth-child(5) {
+    display: none;
+}
+
+.chart-container .chart-controls-bar>.chart-series-controls {
+    display: none;
+}
+
+.left .header-group-intervals {
+    display: none;
+}
+
+.intervals-list {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.space-single>.button {
+    background: none;
+    color: #999;
+    border: 0 none;
+}
+
+.space-single>.button:before {
+    /* display:none !important; */
+}
+
+.space-single>.button:active {
+    color: #7CB3FF !important;
+    background: #F1F7FE !important;
+}
+
+.group.space-single>.button:hover {
+    border-color: rgba(0, 0, 0, 0);
+}
+
+.chart-page .header-group-indicators>.study-template-widget {
+    display: none !important;
+}
+
+.left>.header-group-bars-style>.favored-list-container>.apply-common-tooltip {
+    display: none;
+}
+
+.space-single>.button.active {
+    color: #7CB3FF !important;
+    background: #F1F7FE !important;
+}
+
+.header-group-bars-style {
+    position: absolute;
+    left: 540px;
+    top: 0;
+}
+
+.header-group-properties {
+    position: absolute;
+    left: 580px;
+    top: 0;
+}
+
+.header-group-indicators {
+    position: absolute;
+    left: 620px;
+    top: 0;
+}
+
+.tv-close-panel.top:after,
+.tv-close-panel.top:before {
+    width: 0;
+    height: 0;
+    bottom: -9px;
+    border: 6px solid transparent;
+    border-bottom-color: #222833;
+    position: absolute;
+    content: "";
+}
+
+.tv-close-panel.top:before {
+    top: 0;
+    border-bottom-color: #dee2e6;
+}
+
+.tv-close-panel.top {
+    background: none;
+    border: none;
+}
+
+
+/* .tv-close-panel.bottom, */
+
+.header-chart-panel .tv-close-panel {
+    position: absolute;
+    cursor: pointer;
+    bottom: 20px;
+    left: 3px;
+}
+
+.tv-close-panel.bottom {
+    top: 0
+}
+
+.header-chart-panel-content .left {
+    margin-left: 20px;
+}
+
+.layout__area--left:before {
+    position: absolute;
+    content: '';
+    width: 0px;
+    right: 0;
+    height: 100%;
+    border-left: 5px solid transparent;
+    border-left-color: #1c2636;
+    z-index: 12;
+}
+
+
+/* .tv-close-panel.bottom:after,
+.tv-close-panel.bottom:before {
+    width: 0;
+    height: 0;
+    border: 10px solid transparent;
+    border-bottom-color: #222833;
+    position: absolute;
+    content: "";
+}
+
+.tv-close-panel.bottom:before {
+    top: 0;
+    left: 1px;
+    border-bottom-color: #dee2e6;
+} */
+.header-chart-panel-content .left{
+    margin-left: 0 !important;
+}
+.header-chart-panel .group{
+    margin: 0 !important;
+    height: auto;
+}
+.header-chart-panel .button{
+    padding: 14px 27px !important;
+}
+.header-chart-panel .space-single{
+    padding: 0 !important;
+}
+.button.fullscreen svg{
+    fill:#999 !important;
+}
+.feature-no-touch ._tv-dialog .button:not(.disabled):not(.selected):hover:before, .feature-no-touch ._tv-dialog .custom-select .switcher:not(.disabled):not(.selected):hover:before, .feature-no-touch ._tv-dialog .favored-list-container span:not(.disabled):not(.selected):hover:before, .feature-no-touch ._tv-dialog .submenu:not(.disabled):not(.selected):hover:before, .feature-no-touch .bottom-widgetbar-content.backtesting .button:not(.disabled):not(.selected):hover:before, .feature-no-touch .bottom-widgetbar-content.backtesting .custom-select .switcher:not(.disabled):not(.selected):hover:before, .feature-no-touch .bottom-widgetbar-content.backtesting .favored-list-container span:not(.disabled):not(.selected):hover:before, .feature-no-touch .bottom-widgetbar-content.backtesting .submenu:not(.disabled):not(.selected):hover:before, .feature-no-touch .header-chart-panel .button:not(.disabled):not(.selected):hover:before, .feature-no-touch .header-chart-panel .custom-select .switcher:not(.disabled):not(.selected):hover:before, .feature-no-touch .header-chart-panel .favored-list-container span:not(.disabled):not(.selected):hover:before, .feature-no-touch .header-chart-panel .submenu:not(.disabled):not(.selected):hover:before, .feature-no-touch .properties-toolbar .button:not(.disabled):not(.selected):hover:before, .feature-no-touch .properties-toolbar .custom-select .switcher:not(.disabled):not(.selected):hover:before, .feature-no-touch .properties-toolbar .favored-list-container span:not(.disabled):not(.selected):hover:before, .feature-no-touch .properties-toolbar .submenu:not(.disabled):not(.selected):hover:before, .feature-no-touch .widgetbar-widgetheader .button:not(.disabled):not(.selected):hover:before, .feature-no-touch .widgetbar-widgetheader .custom-select .switcher:not(.disabled):not(.selected):hover:before, .feature-no-touch .widgetbar-widgetheader .favored-list-container span:not(.disabled):not(.selected):hover:before, .feature-no-touch .widgetbar-widgetheader .submenu:not(.disabled):not(.selected):hover:before{
+    border: 0 none !important;
+}
