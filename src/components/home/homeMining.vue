@@ -112,7 +112,7 @@
      export default {
         data() {
             return {
-                messages : "测试",
+                messages : "延禧攻略",
                 persentNum:0,
                 nameList:[],
                 list1:"",
