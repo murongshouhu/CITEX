@@ -38,9 +38,9 @@
             </div>
           </div>
         </div>
-        <!-- <div>
+        <div>
             <HomeMining></HomeMining>
-        </div> -->
+        </div>
         <div>
             <HomeList></HomeList>
         </div>
@@ -54,7 +54,7 @@
 // 组件引入
 import HomeList from "./homeList.vue"; // 首页列表
 import HomeFoot from "./homeFoot.vue"; //首页图片内容
- //import HomeMining from "./homeMining.vue";//首页挖矿实时图
+ import HomeMining from "./homeMining.vue";//首页挖矿实时图
 import indexApi from "../../api/indexApi.js";
 export default {
   data() {
@@ -76,7 +76,7 @@ export default {
     //注册组件
     HomeList,
     HomeFoot,
-     //HomeMining
+     HomeMining
   },
   mounted() {}
 };

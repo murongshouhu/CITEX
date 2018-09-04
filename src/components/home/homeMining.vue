@@ -2,7 +2,7 @@
         <div class = "mining">
             <div class = "m-present">
                 <span class= "text26 m-title">挖矿机制</span>
-                <!-- <div class = "m-pre-sontop">
+                <div class = "m-pre-sontop">
                     <div class="sontop-left">
                         <ul>
                             <li class="m-sontt pad-left30">
@@ -33,7 +33,7 @@
                         <router-link to="/trade" class="text14-co">锁仓/解仓</router-link>
                     </div>
                 </div>
-                <div class = "m-pre-sonbot">
+                <!-- <div class = "m-pre-sonbot">
                     <ul>
                         <li class = "sonbot-left border-right">
                             <p class="text-p">今日待分配收入合计（BTC估值）</p>
@@ -51,7 +51,7 @@
                             <span class="text-p">CTT总流通量：</span><span class="text-p">1,2974 BTC</span>
                         </li>
                     </ul>
-                </div>-->
+                </div>
                 <div class = "m-pre-sontop">
                     <div class="sontop-left">
                         <ul>
@@ -67,7 +67,7 @@
                             </li>
                             <li class="m-sontb">
                                 <img class="show-img" src="../../assets/home/home_wakua_07.png">
-                                <!-- <div class="son-show" style ="width:63.9%"></div> -->
+                                 <div class="son-show" style ="width:63.9%"></div>
                                 <el-progress :text-inside="true" :stroke-width="18" :percentage ="persentNum"></el-progress>
                             </li>
                         </ul>
@@ -83,7 +83,7 @@
                         <span class="text-14-ly mrt10">{{list3 || 0}}</span>
                         <router-link to="/trade" class="text14-co">锁仓/解仓</router-link>
                     </div>
-                </div>
+                </div> -->
                 <div class = "m-pre-sonbot">
                     <ul>
                         <li class = "sonbot-left border-right">
