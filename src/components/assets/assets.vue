@@ -1,7 +1,7 @@
 <template>
     <div class="assets">
         <div class="fs-28 color-333 pb-20 assets-title mb-40">
-            <p>资产管理</p>
+            <p>资产管理12</p>
         </div>
         <div class="search pb-60">
             <div class="search-input">
